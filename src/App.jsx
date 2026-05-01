@@ -133,7 +133,10 @@ function Hero() {
             </span>
           </h1>
           <p className="mt-6 max-w-2xl text-lg leading-8 text-slate-700">
-            เว็บไซต์ต้นแบบสำหรับบุคลากรโรงพยาบาล เพื่อเรียนรู้ประเภทข้อมูลส่วนบุคคล วงจรการจัดการข้อมูล การเก็บรักษา และการทำลายเอกสารอย่างปลอดภัย (เอกสารอ้างอิง: QP-PDPA-001-01)
+            เว็บไซต์ต้นแบบสำหรับบุคลากรโรงพยาบาล เพื่อเรียนรู้ประเภทข้อมูลส่วนบุคคล วงจรการจัดการข้อมูล การเก็บรักษา และการทำลายเอกสารอย่างปลอดภัย
+          </p>
+          <p className="mt-6 max-w-2xl text-lg leading-8 text-slate-700">
+            เอกสารอ้างอิง: QP-PDPA-001-01
           </p>
           <a href="#learn" className="mt-8 inline-flex rounded-2xl bg-red-900 px-6 py-3 font-bold text-white shadow-lg">
             เริ่มเรียนรู้ →
