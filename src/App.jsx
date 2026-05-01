@@ -136,7 +136,14 @@ function Hero() {
             เว็บไซต์ต้นแบบสำหรับบุคลากรโรงพยาบาล เพื่อเรียนรู้ประเภทข้อมูลส่วนบุคคล วงจรการจัดการข้อมูล การเก็บรักษา และการทำลายเอกสารอย่างปลอดภัย
           </p>
           <p className="mt-6 max-w-2xl text-lg leading-8 text-slate-700">
-            เอกสารอ้างอิง: QP-PDPA-001-01
+            เอกสารอ้างอิง:  <a
+    href="https://drive.google.com/file/d/1Zb5vlZ75KH6nt-ZJtRilPoXyXQ75hBMH/view?pli=1"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="inline-flex rounded-2xl border border-red-900/20 bg-white px-6 py-3 font-bold text-red-900 shadow-sm hover:bg-red-50"
+  >
+    📄 QP-PDPA-001-01
+  </a>
           </p>
           <a href="#learn" className="mt-8 inline-flex rounded-2xl bg-red-900 px-6 py-3 font-bold text-white shadow-lg">
             เริ่มเรียนรู้ →
